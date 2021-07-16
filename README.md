@@ -6,9 +6,9 @@
 ### I'm Florent
 
 I'm French 🇫🇷 but I live in Barcelona, Spain 🇪🇸.  
-I graduated from the ESIR engineering school in Computer Sciences.
+I graduated from the [ESIR](https://esir.univ-rennes1.fr/en) engineering school in Computer Sciences.
 
-I speak about my developer journey on Twitter too [#kapcash](https://twitter.com/Kapcash)
+I speak about my developer journey on Twitter too ([@kapcash](https://twitter.com/Kapcash))
 
 ### My work
 
